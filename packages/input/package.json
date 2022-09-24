@@ -1,7 +1,7 @@
 {
   "name": "axu-input",
   "version": "0.0.9",
-  "description": "",
+  "description": "input",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
   "scripts": {
