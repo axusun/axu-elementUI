@@ -1,5 +1,6 @@
 <template>
   <form>
+    <!-- 插槽 -->
     <slot></slot>
   </form>
 </template>
