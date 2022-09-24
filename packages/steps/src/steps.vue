@@ -8,6 +8,7 @@
       :style="{ color: active >= index ? activeColor : defaultColor }"
     >
       {{ index }}
+      
     </div>
   </div>
 </template>
